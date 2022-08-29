@@ -1,23 +1,8 @@
-# JSDoc Boilerplate
+# wanted-pre-onboarding-challenge-fe-2
 
-## Usage
+Todo 앱을 JSDoc으로 문서화합니다.
 
-### Install
+### 요구 사항
 
-```bash
-npm install
-or
-yarn
-```
-
-### Build
-
-```bash
-npm run docs
-or
-yarn docs
-```
-
-#### Reference
-
-- [jsdoc.app](https://jsdoc.app)
+1. todo 데이터 모델링
+2. todo app의 CRUD 동작 함수의 선언부 구현
